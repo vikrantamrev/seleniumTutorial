@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11822" started-at="2018-02-25T15:47:49Z" finished-at="2018-02-25T15:48:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11822" started-at="2018-02-25T15:47:49Z" finished-at="2018-02-25T15:48:01Z">
+      <class name="com.demoaut.NewTest">
+        <test-method status="PASS" signature="BeforeSuiteMethod()[pri:0, instance:com.demoaut.NewTest@83bb96]" name="BeforeSuiteMethod" is-config="true" duration-ms="16" started-at="2018-02-25T21:17:49Z" finished-at="2018-02-25T21:17:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeSuiteMethod -->
+        <test-method status="PASS" signature="BeforeClass()[pri:0, instance:com.demoaut.NewTest@83bb96]" name="BeforeClass" is-config="true" duration-ms="7071" started-at="2018-02-25T21:17:49Z" finished-at="2018-02-25T21:17:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:com.demoaut.NewTest@83bb96]" name="Login" duration-ms="420" started-at="2018-02-25T21:17:56Z" finished-at="2018-02-25T21:17:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="SignIn()[pri:0, instance:com.demoaut.NewTest@83bb96]" name="SignIn" duration-ms="4129" started-at="2018-02-25T21:17:56Z" finished-at="2018-02-25T21:18:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignIn -->
+        <test-method status="PASS" signature="verifyHomePageTitle()[pri:0, instance:com.demoaut.NewTest@83bb96]" name="verifyHomePageTitle" duration-ms="38" started-at="2018-02-25T21:18:01Z" finished-at="2018-02-25T21:18:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitle -->
+        <test-method status="PASS" signature="endSession()[pri:0, instance:com.demoaut.NewTest@83bb96]" name="endSession" is-config="true" duration-ms="130" started-at="2018-02-25T21:18:01Z" finished-at="2018-02-25T21:18:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endSession -->
+        <test-method status="PASS" signature="AfterSuiteMethod()[pri:0, instance:com.demoaut.NewTest@83bb96]" name="AfterSuiteMethod" is-config="true" duration-ms="0" started-at="2018-02-25T21:18:01Z" finished-at="2018-02-25T21:18:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterSuiteMethod -->
+      </class> <!-- com.demoaut.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
